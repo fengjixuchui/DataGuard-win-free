@@ -11,7 +11,7 @@ Data Guard provides you following abilities for data protection:
   7. ... and many other interesting abilities will be added soon.
   
 
-Free version is available for using unser followinf Windows versions:
+Free version is available for using unвer following Windows versions:
   Windows 7 (x86, x64) with installed KB3033929 updates;
   Windows 8 (x86, x64);
   Windows 8.1 (x86, x64);
