@@ -7,7 +7,7 @@ Data Guard provides you following abilities for data protection:
   3. Shredding files without ability to recover deleted information;
   4. Files encryption with modern encryption algorithms (Grader, AES, AES-256);
   5. Storing sensitive credit cards information;
-  6. On-the-fly encryption for directories.
+  6. On-the-fly encryption for directories;
   7. ... and many other interesting abilities will be added soon.
   
 
